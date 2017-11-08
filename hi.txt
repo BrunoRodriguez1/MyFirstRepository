@@ -1,1 +1,3 @@
 Hello world, I am learning Git to better track my work even though I have no idea what is this for. 
+
+I'm making a changeeeeee. WOW!
